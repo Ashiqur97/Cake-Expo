@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+        "_id": "dress1",
+        "image" : "/images/image1.jpg",
+        "title": "Midi sundress with shirring detail",
+        "description": "This is for all the largest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["1pb","2pb","3pb","4pb"],
+        "price": 500
+        },
+        {
+            "_id": "dress2",
+            "image" : "/images/image2.jpg",
+            "title": "Midi sundress with shirring detail",
+            "description": "This is for all the largest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "availableSizes": ["1.5pb", "2.5pb", "4.5pb"],
+            "price": 600
+            },
+            {
+                "_id": "dress3",
+                "image" : "/images/image3.jpg",
+                "title": "Midi sundress with shirring detail",
+                "description": "This is for all the largest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+                "availableSizes": ["1pb", "1.3pb", "1.6pb"],
+                "price": 400
+                },
+                {
+                    "_id": "dress4",
+                    "image" : "/images/image4.jpg",
+                    "title": "Midi sundress with shirring detail",
+                    "description": "This is for all the largest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+                    "availableSizes": ["2.7pb"],
+                    "price": 550
+                    },
+                    {
+                        "_id": "dress5",
+                        "image" : "/images/image5.jpg",
+                        "title": "Midi sundress with shirring detail",
+                        "description": "This is for all the largest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+                        "availableSizes": ["3.7", "3.5", ""],
+                         "price": 650
+                        },
+                        {
+                            "_id": "dress6",
+                            "image": "/images/image6.jpg",
+                            "title": "Midi tea dress in blue and red spot",
+                            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+                            "availableSizes": ["5.5pb", "4pb"],
+                            "price": 700
+                           }
+    ]
+}
